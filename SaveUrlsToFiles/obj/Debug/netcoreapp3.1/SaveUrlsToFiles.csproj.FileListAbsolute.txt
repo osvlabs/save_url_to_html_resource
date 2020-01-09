@@ -1,0 +1,10 @@
+C:\Users\wengy\source\repos\SaveUrlsToFiles\SaveUrlsToFiles\bin\Debug\netcoreapp3.1\SaveUrlsToFiles.exe
+C:\Users\wengy\source\repos\SaveUrlsToFiles\SaveUrlsToFiles\bin\Debug\netcoreapp3.1\SaveUrlsToFiles.deps.json
+C:\Users\wengy\source\repos\SaveUrlsToFiles\SaveUrlsToFiles\bin\Debug\netcoreapp3.1\SaveUrlsToFiles.runtimeconfig.json
+C:\Users\wengy\source\repos\SaveUrlsToFiles\SaveUrlsToFiles\bin\Debug\netcoreapp3.1\SaveUrlsToFiles.runtimeconfig.dev.json
+C:\Users\wengy\source\repos\SaveUrlsToFiles\SaveUrlsToFiles\bin\Debug\netcoreapp3.1\SaveUrlsToFiles.dll
+C:\Users\wengy\source\repos\SaveUrlsToFiles\SaveUrlsToFiles\bin\Debug\netcoreapp3.1\SaveUrlsToFiles.pdb
+C:\Users\wengy\source\repos\SaveUrlsToFiles\SaveUrlsToFiles\obj\Debug\netcoreapp3.1\SaveUrlsToFiles.AssemblyInfoInputs.cache
+C:\Users\wengy\source\repos\SaveUrlsToFiles\SaveUrlsToFiles\obj\Debug\netcoreapp3.1\SaveUrlsToFiles.AssemblyInfo.cs
+C:\Users\wengy\source\repos\SaveUrlsToFiles\SaveUrlsToFiles\obj\Debug\netcoreapp3.1\SaveUrlsToFiles.dll
+C:\Users\wengy\source\repos\SaveUrlsToFiles\SaveUrlsToFiles\obj\Debug\netcoreapp3.1\SaveUrlsToFiles.pdb
